@@ -1,0 +1,9 @@
+{
+    "parent": "item/generated",
+    "textures":
+    {
+        "layer0": "ntechcore:items/shader_0",
+        "layer1": "ntechcore:items/shader_1",
+        "layer2": "ntechcore:items/shader_2"
+    }
+}

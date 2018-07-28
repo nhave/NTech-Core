@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ntechcore",
+  "name": "NTech Core",
+  "description": "Foundation of the NTech Mods",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["nhave"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

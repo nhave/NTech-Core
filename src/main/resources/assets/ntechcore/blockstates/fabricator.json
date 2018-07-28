@@ -1,0 +1,28 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"textures": {
+			"top": "ntechcore:blocks/fabricator_top",
+			"front": "ntechcore:blocks/fabricator_front",
+			"side": "ntechcore:blocks/fabricator_side",
+			"down": "ntechcore:blocks/machine_base"
+		},
+		"model": "orientable"
+	},
+	"variants": {
+		"facing": {
+			"north": {
+			
+			},
+			"south": {
+				"y": 180
+			},
+			"west": {
+				"y": 270
+			},
+			"east": {
+				"y": 90
+			}
+		}
+	}
+}

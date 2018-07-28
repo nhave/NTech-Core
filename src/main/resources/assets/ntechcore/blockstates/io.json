@@ -1,0 +1,19 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "ntechcore:io",
+        "uvlock": true
+    },
+    "variants": {
+        "normal": [{
+
+        }],
+		"iomode=input": { "model": "ntechcore:io" },
+        "iomode=output": [{
+			"textures": {
+				"side": "ntechcore:blocks/io_output"
+			},
+			"model": "ntechcore:io"
+		}]
+    }
+}

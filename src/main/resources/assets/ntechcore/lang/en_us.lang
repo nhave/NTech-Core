@@ -1,0 +1,129 @@
+//---Creative Tab---//
+itemGroup.ntechcore.items=NTech Items
+itemGroup.ntechcore.blocks=NTech Blocks
+itemGroup.ntechcore.armor=NTech Armor
+itemGroup.ntechcore.tools=NTech Tools
+itemGroup.ntechcore.upgrades=NTech Upgrades
+
+//---Blocks---//
+tile.ntechcore.machineframe.name=Machine Frame
+tile.ntechcore.io.name=Machine I/O
+tile.ntechcore.upgradestation.name=Item Upgrade Station
+tile.ntechcore.fabricator.name=Fabricator
+tile.ntechcore.cosmetics.name=Cosmetics Vending Machine
+
+//---Items---//
+item.ntechcore.wrench.name=Wrench
+item.ntechcore.circuit.basic.name=Basic Circuit
+item.ntechcore.circuit.advanced.name=Advanced Circuit
+item.ntechcore.circuit.elite.name=Elite Circuit
+item.ntechcore.circuit.ultimate.name=Ultimate Circuit
+item.ntechcore.ingot.steel.name=Steel Ingot
+item.ntechcore.plate.iron.name=Iron Plate
+item.ntechcore.plate.gold.name=Gold Plate
+item.ntechcore.plate.steel.name=Steel Plate
+item.ntechcore.plate.carbon.name=Carbon Plate
+item.ntechcore.plate.plastic.name=Plastic Plate
+item.ntechcore.plate.glassfiber.name=Glassfiber Plate
+item.ntechcore.platehelmet.name=Plated Helmet
+item.ntechcore.platechest.name=Plated Chestplate
+item.ntechcore.platelegs.name=Plated Leggings
+item.ntechcore.plateboots.name=Plated Boots
+item.ntechcore.armorplate.name=Armorplate
+item.ntechcore.runningboots.name=Running Boots
+item.ntechcore.jumpkit.double.name=Jump Kit (Double Jump)
+item.ntechcore.jumpkit.triple.name=Jump Kit (Triple Jump)
+item.ntechcore.jumpkit.velocity.name=Jump Kit (Velocity)
+item.ntechcore.chroma.name=Chroma
+item.ntechcore.shader.name=Item Shader
+item.ntechcore.machineupgrade.name=Machine Upgrade
+item.ntechcore.machineupgrade.speed1.name=Speed Upgrade
+item.ntechcore.machineupgrade.speed2.name=Speed Upgrade MKII
+item.ntechcore.machineupgrade.efficiency1.name=Efficiency Upgrade
+item.ntechcore.machineupgrade.efficiency2.name=Efficiency Upgrade MKII
+item.ntechcore.machineupgrade.automation.name=Automation Upgrade
+item.ntechcore.machinespecial.name=Machine Specialization
+item.ntechcore.machinespecial.uninstall.name=Upgrade Uninstaller
+
+//---Armorplates---//
+armorplate.ntechcore.iron=Iron
+armorplate.ntechcore.gold=Gold
+armorplate.ntechcore.diamond=Diamond
+armorplate.ntechcore.steel=Steel
+armorplate.ntechcore.carbon=Carbon
+
+//---Chroma---//
+chroma.ntechcore.black=Black
+chroma.ntechcore.red=Red
+chroma.ntechcore.green=Green
+chroma.ntechcore.brown=Brown
+chroma.ntechcore.blue=Blue
+chroma.ntechcore.purple=Purple
+chroma.ntechcore.cyan=Cyan
+chroma.ntechcore.lightgray=Light Gray
+chroma.ntechcore.gray=Gray
+chroma.ntechcore.pink=Pink
+chroma.ntechcore.lime=Lime
+chroma.ntechcore.yellow=Yellow
+chroma.ntechcore.lightblue=Light Blue
+chroma.ntechcore.magenta=Magenta
+chroma.ntechcore.orange=Orange
+chroma.ntechcore.white=White
+
+//---Tooltip---//
+tooltip.ntechcore.details.ctrl1=Hold
+tooltip.ntechcore.details.ctrl2=Ctrl
+tooltip.ntechcore.details.ctrl3=for Upgrades
+tooltip.ntechcore.error.missingnbt=!!MISSING NBT DATA!!
+tooltip.ntechcore.owner=Machine Owner
+tooltip.ntechcore.publicmachine=Public Machine
+tooltip.ntechcore.charge=Charge
+tooltip.ntechcore.charge.use=Per Use
+tooltip.ntechcore.charge.transfer=Transfer
+tooltip.ntechcore.charge.tick=Per Tick
+tooltip.ntechcore.boolean.true=true
+tooltip.ntechcore.boolean.false=false
+tooltip.ntechcore.mod.canuse=Can be used to upgrade
+tooltip.ntechcore.mod.appliesto=Can apply to
+tooltip.ntechcore.mod.all=All Accepted Upgrades
+tooltip.ntechcore.mod.jumpkit=Any Jump Kit
+tooltip.ntechcore.mod.armorplate=Any Armorplate
+tooltip.ntechcore.mod.machine.speed=Any Speed Upgrade
+tooltip.ntechcore.mod.machine.efficiency=Any Efficiency Upgrade
+tooltip.ntechcore.armorplate.onarmor=When on armor
+tooltip.ntechcore.armorplate.onhead=Armor on head
+tooltip.ntechcore.armorplate.onbody=Armor on body
+tooltip.ntechcore.armorplate.onlegs=Armor on legs
+tooltip.ntechcore.armorplate.onfeet=Armor on feet
+tooltip.ntechcore.armorplate.toughness=Armor Toughness
+tooltip.ntechcore.shader.current=Current Shader
+tooltip.ntechcore.shader.none=No Shader
+tooltip.ntechcore.machineupgrade.speed=Increases the speed of machines.
+tooltip.ntechcore.machineupgrade.speed1.extra=3x normal power consumption!
+tooltip.ntechcore.machineupgrade.speed2.extra=6x normal power consumption!
+tooltip.ntechcore.machineupgrade.efficiency=Decreases the power;consumption of machines.
+tooltip.ntechcore.machineupgrade.efficiency1.extra=-50% power consumption.
+tooltip.ntechcore.machineupgrade.efficiency2.extra=-75% power consumption.
+tooltip.ntechcore.machineupgrade.automation=Allows machines that normally;cant be automated, to interact;with other blocks and I/Os.
+tooltip.ntechcore.machineupgrade.automation.extra=The way this upgrade works;depends on the machine.
+tooltip.ntechcore.machinespecial.uninstall=Allows the Upgrade Station;to uninstall mods from items.
+tooltip.ntechcore.machinespecial.uninstall.extra=Note the Automation Upgrade;and an I/O in output mode;must be present!
+tooltip.ntechcore.block.upgradestation=Right click to place item inside.;(If wrench right click the top);Then right click it with another;item to start the process.
+tooltip.ntechcore.block.upgradestationA=Right click with an item to;place it inside.;Then right click it with;another item to modify it.
+tooltip.ntechcore.item.runningboots=Gives step assist and a small;boost to movement speed.;Also prevents fall damage;up to 6 blocks.;Does not provide armor!
+tooltip.ntechcore.item.jumpkit.double=Upgrade your boots with;an extra 3 block high jump.
+tooltip.ntechcore.item.jumpkit.triple=Upgrade your boots with;two extra 1.5 block high jumps.
+tooltip.ntechcore.item.jumpkit.velocity=Upgrade your boots with;an extra jump boosting you in;the direction you are moving.
+tooltip.ntechcore.item.platearmor=Modular armor that takes;on the attributes of the;armorplate attached to it.;The armorplate does;not take durability damage.
+tooltip.ntechcore.item.armorplate=Used to upgrade the;protection of armor.
+tooltip.ntechcore.item.plate.all=All Plated Armor
+tooltip.ntechcore.item.chroma=Used to change the color;of compatible items to %color%.
+
+//---Config---//
+cfg.ntechcore.title.main=NTech Core - Configuration Menu
+cfg.ntechcore.title.common=NTech Core - Common Configs
+cfg.ntechcore.title.client=NTech Core - Client Configs
+cfg.ntechcore.entry.common=Common Config
+cfg.ntechcore.entry.common.tooltip=All Common Options
+cfg.ntechcore.entry.client=Client Config
+cfg.ntechcore.entry.client.tooltip=All Client Options
